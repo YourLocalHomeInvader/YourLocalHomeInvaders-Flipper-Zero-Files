@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 01 FE 00 00
+# 
+name: Vup
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 12 ED 00 00
+# 
+name: Vdown
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 13 EC 00 00
+# 
+name: Mute
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 0F F0 00 00
+# 
+name: Bluet_mode
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: FB 04 00 00
+# 
+name: Pair_mode
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 1F E0 00 00
+# 
+name: Aux
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: F1 0E 00 00
+# 
+name: Usb
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: FF 00 00 00
+# 
+name: Rewind
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 19 E6 00 00
+# 
+name: Pause_play
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: FE 01 00 00
+# 
+name: Skip
+type: parsed
+protocol: NECext
+address: 84 F3 00 00
+command: 18 E7 00 00
