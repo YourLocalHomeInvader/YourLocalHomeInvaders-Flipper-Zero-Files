@@ -1,0 +1,2 @@
+<h2>Ravenna High School Files</h2>
+<p>This is a folder created to control the tvs and other display, Please don't use for bad purposes but its fun to have. The Ravens_Classroom_New.IR is a replacement for Ravens_Old_SMART_Board.IR because the school has replaced the Smart Boards with Philips Teaching TVs that can be controlled with the Clevershare App if the teacher uses wireless connections to the board. Most of the time its usually wired but you may find some. Everything is pretty harmless but can be annoying to the teachers or useful for them.</p>
