@@ -1,4 +1,4 @@
-<h>My Flipper Zero Files</h>
+<h1>My Flipper Zero Files</h1>
  <p>This is just a dump of some of the files I have created so far.</p>
 
 <h3>Infrared</h3>
